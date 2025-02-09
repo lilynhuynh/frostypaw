@@ -1,0 +1,25 @@
+:root {
+    --yellow: #F2E0BD;
+    --blue: #9CCED9;
+    --liteblue: #D5E5F2;
+    --paleblue: #B0C1D9;
+    --purple: #8C5871;
+}
+
+.nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav > li {
+    float: right;
+}
+
+.nav > li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
